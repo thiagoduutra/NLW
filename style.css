@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url("./img/Fundo.jpg");
+  background-image: url("./assets/img/Fundo.jpg");
   background-position: top center;
   /*Adaptar a tela*/
   background-size: 100% auto;
