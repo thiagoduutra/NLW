@@ -14,4 +14,4 @@ Projeto básico feito do evento Next Level Week da Rocketseat
 
 ## 📞 Contato
 
-Linkedin: https://www.linkedin.com/in/thiago-dutra-107b4a213/
+- [Linkedin](https://www.linkedin.com/in/thiago-dutra-107b4a213/)
